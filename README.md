@@ -1,5 +1,6 @@
 # Bhuwan Bhandari
-### Systems & Infrastructure Engineer | Core Maintainer, Tamor
+
+### Systems & Infrastructure Engineer | Junior at Colby College, ME, US | Core Maintainer, Tamor
 
 I build high-throughput data ingestion pipelines, deterministic verification runtimes, and policy-as-code guardrails for autonomous machine workflows.
 
